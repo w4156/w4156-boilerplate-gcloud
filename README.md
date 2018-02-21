@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/w4156/w4156-boilerplate-gcloud.svg?style=svg)](https://circleci.com/gh/w4156/w4156-boilerplate-gcloud)
 This code is used for the purposes of COMS 4156 - Advanced Software Engineering course at Columbia University, New York. 
 This is a boilerplate python flask code along with configurations for Circle CI and Google Cloud.
 
